@@ -1,0 +1,19 @@
+#homepage .header {
+	background: #edf7ff url('../images/homepage.jpg') 100% 50% no-repeat;
+	background-size: 50%;
+}
+
+#homepage .intro {
+	background: #fff url('../images/homepage2.jpg') 12% 50% no-repeat;
+	background-size: 35%;
+}
+
+.btn-soft-blue {
+	background: #1162a3;
+	border-color: #7cb2de;
+}
+
+footer {
+	background: #f8f9fa;
+	border-top: 10px #d7d8d8 solid;
+}

@@ -30,7 +30,7 @@ url: "https://mckrzyzanowski.github.io" # the base hostname & protocol for your 
 baseurl: /docs/
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

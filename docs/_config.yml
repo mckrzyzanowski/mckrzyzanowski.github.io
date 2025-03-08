@@ -30,12 +30,9 @@ url: "https://mckrzyzanowski.github.io" # the base hostname & protocol for your 
 baseurl: /docs/
 
 # Build settings
-theme: jekyll-bootstrap-theme
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-
-remote_theme: jonaharagon/jekyll-bootstrap-theme@v0.1.0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
